@@ -1,6 +1,8 @@
 # rogue-cube-pygame
 A simple roguelike game made in pygame
 
+![exame-gif](https://github.com/Alarxon/rogue-cube-pygame/blob/main/rogue-cube.gif?raw=true)
+
 ## Getting Started
 The game is simple, only 3 python scripts and one folder with assets.
 
